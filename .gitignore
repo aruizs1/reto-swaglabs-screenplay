@@ -1,0 +1,14 @@
+.gradle/
+build/
+target/
+out/
+.idea/
+*.iml
+.vscode/
+apps/*.apk
+apps/*.zip
+apps/*.ipa
+evidencias/
+ejecucion.log
+appium.log
+emulador.log
