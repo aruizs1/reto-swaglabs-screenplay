@@ -3,6 +3,8 @@
 Automatización del **escenario feliz (happy path)** de compra de un producto en la app móvil
 **Swag Labs** de Sauce Labs, usando el patrón **Screenplay** con Serenity BDD, Appium y Cucumber.
 
+> **Evidencias y documentos del Sprint 2:** la carpeta [`evidencias/`](evidencias/) contiene el plan y los casos de prueba (`Gestion_de_Pruebas_SwagLabs.xlsm`), el informe de resultados (`Informe_Resultados_SwagLabs.docx`), las capturas de cada caso funcional, responsive y no funcional, y el script de Appium usado para ejecutarlos. Resumen: 31 casos ejecutados (25 OK, 6 con fallo) y 9 hallazgos.
+
 ---
 
 ## 1. Stack tecnológico
